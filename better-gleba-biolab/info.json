@@ -1,0 +1,22 @@
+{
+    "name": "better-gleba-biolab",
+    "version": "0.1.2",
+    "title": "Better Gleba Biolab",
+    "author": "Reapa, Alkumist",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "space-age"
+    ],
+    "description": "Biolabs can only be placed on Gleba, and produce spores.",
+
+    "quality_required": false,
+    "rail_bridges_required": false,
+    "space_travel_required": false,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false,
+    "expansion_shaders_required": false
+}
